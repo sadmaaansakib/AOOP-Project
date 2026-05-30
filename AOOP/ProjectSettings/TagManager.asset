@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - sword
+  - enemy
+  - Atk_sword
+  - ColorChanger
+  - Cyan
+  - Pink
+  - Magenta
+  - Yellow
+  - Take_back
+  - CheckPoint
+  - BASELINE
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Wall
+  - sword
+  - prop
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: World
+    uniqueID: 3154593487
+    locked: 0
+  - name: Sky
+    uniqueID: 1165667749
+    locked: 0
+  - name: Prop
+    uniqueID: 1571682125
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3982099141
+    locked: 0
+  - name: ForGround
+    uniqueID: 3512665387
+    locked: 0
+  - name: Player
+    uniqueID: 702226599
+    locked: 0
+  - name: Ground
+    uniqueID: 3304101031
+    locked: 0

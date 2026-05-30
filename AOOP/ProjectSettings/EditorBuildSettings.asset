@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Main/Cutscene.unity
+    guid: 1ccda8b13f627444fab183d301b6ae04
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 747cec1984a885240b52e2c9dacbd6e3
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Starting/Starting.unity
+    guid: 590ae5e00c8496242822ef9c5a864907
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SampleScene2.unity
+    guid: e0c3447d9d932384c95ff5d5c592e3c4
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Mummbling/Mumling.unity
+    guid: 2417c797e2f837e41bd38b769582ccde
+  - enabled: 1
+    path: Assets/Scenes/SampleScene2 1.unity
+    guid: f53502e55a803354094f53fb0368d450
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/CanTalk/Cantalk.unity
+    guid: 3a266eb301b809843b9e5592311cc66f
+  - enabled: 1
+    path: Assets/Scenes/SampleScene2 2.unity
+    guid: 137a97b21961c6c43a9bfec2991fdb90
+  - enabled: 1
+    path: Assets/Scenes/SampleScene3.unity
+    guid: a291c6f699248ea419d0c0f3784bc7fc
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Middle/Middle.unity
+    guid: d3c2deddcff0858479041281cd07638e
+  - enabled: 1
+    path: Assets/Scenes/SampleScene4.unity
+    guid: abb7facc38f894f448f113a4c4551b5c
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/CanTalk 1/Cantalk2.unity
+    guid: 031f53750eabee041ad1c0df4af09085
+  - enabled: 1
+    path: Assets/Scenes/ColorSwitch.unity
+    guid: a49db7f0c205bc74384591bf6768a6ec
+  - enabled: 0
+    path: Assets/OneStoke/Scenes/Gameplay.unity
+    guid: ebcedf2a8e4ae78408a1e3888a883e7b
+  - enabled: 1
+    path: Assets/Scenes/OneStroke.unity
+    guid: d339f6c1dda58f54b938a61e2964e708
+  - enabled: 1
+    path: Assets/Scenes/SampleScene5.unity
+    guid: 04cb19ea0dcff0446b4bc0245c69369a
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/CanTalk2/Cantalk29.unity
+    guid: 80df2e96f9e86084694f93672da7383a
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Ending/ending.unity
+    guid: f1accb104a03b424d8d10b25808fcec3
+  m_configObjects: {}
